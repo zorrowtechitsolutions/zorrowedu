@@ -126,7 +126,7 @@ export function RecommendationModal({
         w-[95%] max-w-2xl
         max-h-[90vh]
         overflow-y-auto
-        bg-white
+        bg-white200
         shadow-2xl
         rounded-xl
         border
